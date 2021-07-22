@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MarawanElkholy
 - 👀 I’m interested in Machine Learning, Deep learning, AI , Data science , Data Analysis.
-- 🌱 I’m currently learning Data Analysis, Data  Science , Mechatronics Engineering
+- 🌱 I’m an aspiring Data Analyst, Data  Scientist , Mechatronics Engineer
